@@ -1,7 +1,7 @@
 # *Hello, world !*
 
 I'm mostly a GNU-Linux enthusiast (*I use arch btw*). <br><br>I love tinkering with other people's code. I guess that makes me a developer.
-<br>Hosting my blog on GH Pages finally got me interested in HTML and CSS.<br>
+<br>
 
 ### Socials
 <a href="https://www.linkedin.com/in/ange-kevin-amlaman-09813b244">
