@@ -1,6 +1,6 @@
 # *Hello, world !*
 
-I'm mostly a GNU-Linux enthusiast (*I use arch btw*). <br><br>I love tinkering with other people's code. I guess that makes me a developer.
+I'm mostly a GNU-Linux enthusiast (*I use arch btw*). <br>I love tinkering with other people's code. I guess that makes me a developer.
 <br>
 
 ### Socials
