@@ -41,8 +41,3 @@ I'm mostly a GNU-Linux enthusiast, I love tinkering with other people's code (I 
 ![](https://raw.githubusercontent.com/charveey/profile-readme-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/charveey/profile-readme-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=charveey&hide_title=false&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&layout=compact&card_width=370&langs_count=6)
-<br>![GitHub Streak](https://streak-stats.demolab.com?user=charveey&theme=transparent&hide_border=true&card_width=700&stroke=737373&ring=EB851D&fire=EB851D&currStreakNum=EB851D&sideNums=737373&currStreakLabel=737373&sideLabels=737373&dates=737373)
-<br>
-
-### GitHub Trophies
-![](https://github-trophies.vercel.app/?username=charveey&theme=flat&no-frame=true&no-bg=false&margin-w=7&row=1&column=6)
