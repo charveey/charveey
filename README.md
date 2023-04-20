@@ -10,6 +10,9 @@ I'm mostly a GNU-Linux enthusiast (*I use arch btw*). <br>I love tinkering with 
 <a href="https://github.com/charveey/">
   <img align="left" alt="Ange Amlaman on GitHub" width="22px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 </a>
+<a href="https://stackexchange.com/users/14127635/ange-kevin-amlaman?tab=accounts">
+  <img align="left" alt="Ange Amlaman on Stack Exchange" width="22px" src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" />
+</a>
 <a href="https://medium.com/@positronic_brain">
   <img align="left" alt="Ange Amlaman on Medium" width="22px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
 </a>
@@ -27,6 +30,7 @@ I'm mostly a GNU-Linux enthusiast (*I use arch btw*). <br>I love tinkering with 
 ### Tech Stack
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Obsidian_software_logo.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg"></code>
 <code><img height="25" src="https://education.ti.com/-/media/ti/education/images/activities/ti-codes/21172_ticodes_platformlanding_basiccircle.png"></code>
