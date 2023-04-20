@@ -27,7 +27,7 @@ jobs:
           # Options
           user: charveey
           template: classic
-          base: activity, repositories
+          base: community, repositories
           config_timezone: Africa/Abidjan
           plugin_achievements: yes
           plugin_achievements_display: compact
