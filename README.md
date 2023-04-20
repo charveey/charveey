@@ -27,7 +27,7 @@ I'm mostly a GNU-Linux enthusiast (*I use arch btw*). <br>I love tinkering with 
 </a>
 <br>
 
-### Tech Stack
+### Tech stack
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Obsidian_software_logo.svg"></code>
@@ -43,7 +43,6 @@ I'm mostly a GNU-Linux enthusiast (*I use arch btw*). <br>I love tinkering with 
 
 ### Github stats
 ![](https://komarev.com/ghpvc/?username=charveey&color=lightgrey&style=for-the-badge&label=Visitors)<br>
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=charveey&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)<br>
 <div class='container'>
 <img style="height: auto; width: 29%;" class="img" src="https://raw.githubusercontent.com/charveey/profile-readme-stats/master/generated/overview.svg#gh-light-mode-only" />
 <img style="height: auto; width: 29%;" class="img" src="https://raw.githubusercontent.com/charveey/profile-readme-stats/master/generated/overview.svg#gh-dark-mode-only" />
@@ -51,3 +50,6 @@ I'm mostly a GNU-Linux enthusiast (*I use arch btw*). <br>I love tinkering with 
 &nbsp;
 <img style="height: auto; width: 30%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charveey&hide_title=false&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&layout=compact&card_width=370&langs_count=6" /></div>
 </div>
+
+### Productivity summary
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=charveey&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)<br>
