@@ -32,6 +32,7 @@ I'm mostly a GNU-Linux enthusiast (*I use arch btw*). <br>I love tinkering with 
 <code><img height="20" src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Obsidian_software_logo.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg"></code>
 <code><img height="25" src="https://education.ti.com/-/media/ti/education/images/activities/ti-codes/21172_ticodes_platformlanding_basiccircle.png"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"></code>
