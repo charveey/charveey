@@ -32,7 +32,7 @@ I'm mostly a GNU-Linux enthusiast (*I use arch btw*). <br>I love tinkering with 
 <code><img height="20" src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Obsidian_software_logo.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg"></code>
 <code><img height="25" src="https://education.ti.com/-/media/ti/education/images/activities/ti-codes/21172_ticodes_platformlanding_basiccircle.png"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"></code>
@@ -43,6 +43,7 @@ I'm mostly a GNU-Linux enthusiast (*I use arch btw*). <br>I love tinkering with 
 
 ### Github stats
 ![](https://komarev.com/ghpvc/?username=charveey&color=lightgrey&style=for-the-badge&label=Visitors)<br>
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=charveey&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)<br>
 ![](https://raw.githubusercontent.com/charveey/profile-readme-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/charveey/profile-readme-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=charveey&hide_title=false&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&layout=compact&card_width=370&langs_count=6)
