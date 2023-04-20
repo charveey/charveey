@@ -43,6 +43,9 @@ I'm mostly a GNU-Linux enthusiast (*I use arch btw*). <br>I love tinkering with 
 
 ### Github stats
 ![](https://komarev.com/ghpvc/?username=charveey&color=lightgrey&style=for-the-badge&label=Visitors)<br>
+
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+
 <div class='container'>
 <img style="height: auto; width: 29%;" class="img" src="https://raw.githubusercontent.com/charveey/profile-readme-stats/master/generated/overview.svg#gh-light-mode-only" />
 <img style="height: auto; width: 29%;" class="img" src="https://raw.githubusercontent.com/charveey/profile-readme-stats/master/generated/overview.svg#gh-dark-mode-only" />
