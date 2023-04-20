@@ -45,7 +45,6 @@ I'm mostly a GNU-Linux enthusiast (*I use arch btw*). <br>I love tinkering with 
 ![](https://komarev.com/ghpvc/?username=charveey&color=lightgrey&style=for-the-badge&label=Visitors)<br>
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
-<br>
 
 ### Productivity summary
 
