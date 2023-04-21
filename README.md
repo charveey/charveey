@@ -41,7 +41,7 @@ I'm a GNU-Linux enthusiast who loves to tinker with other people's code (*I use 
 <br>
 
 ### • Github stats
-![](https://komarev.com/ghpvc/?username=charveey&color=lightgrey&style=for-the-badge&label=Visitors)<br>
+![](https://komarev.com/ghpvc/?username=charveey&color=blue&style=for-the-badge&label=Visitors)<br>
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
 
