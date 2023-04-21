@@ -33,13 +33,15 @@ jobs:
           template: classic
           base: repositories
           config_timezone: Africa/Abidjan
-          plugin_gists: yes
+          plugin_gists: no
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
           plugin_introduction: no
           plugin_introduction_title: no
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
@@ -51,9 +53,8 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          plugin_languages_ignored: scss, html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
           plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_notable: yes
           plugin_notable_from: organization
