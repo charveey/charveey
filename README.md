@@ -1,9 +1,8 @@
 # *Hello, world !*
 
-I'm mostly a GNU-Linux enthusiast (*I use arch btw*). <br>I love tinkering with other people's code. I guess that makes me a developer.
-<br>
+I'm a GNU-Linux enthusiast who loves to tinker with other people's code (*I use arch btw*). <br>I guess that makes me a developer.
 
-### Socials
+### • Socials
 <a href="https://www.linkedin.com/in/ange-kevin-amlaman-09813b244">
   <img align="left" alt="Ange Amlaman on LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
 </a>
@@ -27,7 +26,7 @@ I'm mostly a GNU-Linux enthusiast (*I use arch btw*). <br>I love tinkering with 
 </a>
 <br>
 
-### Tech stack
+### • Tech stack
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Obsidian_software_logo.svg"></code>
@@ -41,12 +40,12 @@ I'm mostly a GNU-Linux enthusiast (*I use arch btw*). <br>I love tinkering with 
 <code><img height="20" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></code>
 <br>
 
-### Github stats
-![](https://komarev.com/ghpvc/?username=charveey&color=lightgrey&style=for-the-badge&label=Visitors)<br>
+### • Github stats
+![](https://komarev.com/ghpvc/?username=charveey&color=blue&style=for-the-badge&label=Visitors)<br>
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
 
-### Productivity summary
+### • Productivity summary
 
 <img align="center" src="/metrics.plugin.wakatime.svg" alt="Wakatime" width="500">
 
