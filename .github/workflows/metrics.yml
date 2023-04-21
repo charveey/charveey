@@ -12,10 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: zcong1993/setup-timezone@master
-        with:
-          timezone: Africa/Abidjan
-
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
