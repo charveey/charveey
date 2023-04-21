@@ -46,6 +46,6 @@ I'm a GNU-Linux enthusiast who loves to tinker with other people's code (*I use 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
 
 ### • Productivity summary
-
 <img align="center" src="/metrics.plugin.wakatime.svg" alt="Wakatime" width="500">
+<img align="center" src="/metrics.plugin.habits.svg" alt="Coding habits" width="500">
 
