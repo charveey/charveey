@@ -48,7 +48,7 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_languages_ignored: scss, html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
+          plugin_languages_ignored: scss, html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot, batchfile
           plugin_lines: yes
           plugin_lines_sections: base
           plugin_notable: yes
