@@ -28,7 +28,7 @@ jobs:
           user: charveey
           template: classic
           base: repositories
-          repositories_forks: yes
+          repositories_forks: no
           config_timezone: Africa/Abidjan
           plugin_gists: no
           plugin_achievements: yes
