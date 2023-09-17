@@ -1,6 +1,6 @@
 # *Hello, world !*
 
-I'm a GNU-Linux enthusiast who loves to tinker with other people's code (*I use arch btw*). <br>I guess that makes me a developer.
+I'm a GNU-Linux enthusiast who loves to tinker with other people's code. I guess that makes me a developer. <br> (*I use arch btw*)
 
 <h3>Socials</h3>
 <a href="https://www.linkedin.com/in/ange-kevin-amlaman-09813b244">
