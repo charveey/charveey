@@ -40,13 +40,13 @@ I'm a GNU-Linux enthusiast who loves to tinker with other people's code. I guess
 <br>
 <details open>
 <summary><h3>Github stats&ensp;</h3><img align="center" src="https://komarev.com/ghpvc/?username=charveey&color=blue&label=Visitors" alt="Visitors" width="70"></summary>
-<img align="center" src="https://raw.githubusercontent.com/charveey/charveey/github-metrics.svg" alt="Metrics" width="500">
+<img align="center" src="https://raw.githubusercontent.com/charveey/charveey/main/github-metrics.svg" alt="Metrics" width="500">
 </details>
 <details open>
 <summary><h3>Workflow</h3></summary>
-<img align="center" src="https://raw.githubusercontent.com/charveey/charveey/metrics.plugin.wakatime.svg" alt="Wakatime" width="500">
+<img align="center" src="https://raw.githubusercontent.com/charveey/charveey/main/metrics.plugin.wakatime.svg" alt="Wakatime" width="500">
 <details>
 <summary><h6>&ensp;show more...</h6></summary>
-<img align="center" src="https://raw.githubusercontent.com/charveey/charveey/metrics.plugin.habits.svg" alt="Coding habits" width="500">
+<img align="center" src="https://raw.githubusercontent.com/charveey/charveey/main/metrics.plugin.habits.svg" alt="Coding habits" width="500">
 </details>
 </details>
