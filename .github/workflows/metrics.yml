@@ -27,34 +27,35 @@ jobs:
           # Options
           user: charveey
           template: classic
-          base: repositories
-          repositories_forks: no
-          config_timezone: Africa/Abidjan
-          plugin_gists: no
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
-          plugin_introduction: no
-          plugin_introduction_title: no
+          base: activity, community, repositories, metadata
+          config_timezone: UTC
           plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
+          plugin_languages_ignored: scss, html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot, batch, batchfile
+          plugin_languages_indepth: yes
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_languages_ignored: scss, html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot, batch, batchfile
-          plugin_lines: yes
-          plugin_lines_sections: base
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_limit: 2
+          plugin_stackoverflow_lines: 4
+          plugin_stackoverflow_lines_snippet: 2
+          plugin_stackoverflow_user: 21688167
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
@@ -70,7 +71,7 @@ jobs:
           # Options
           base: ""
           filename: metrics.plugin.habits.svg
-          config_timezone: Africa/Abidjan
+          config_timezone: UTC
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
@@ -78,3 +79,13 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.repo.plume-quantique.svg
+          template: repository
+          user: charveey
+          repo: plume-quantique
+          plugin_lines: yes
+          plugin_followup: yes

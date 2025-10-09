@@ -27,7 +27,7 @@ jobs:
           # Options
           base: ""
           filename: metrics.plugin.wakatime.svg
-          config_timezone: Africa/Abidjan
+          config_timezone: UTC
           plugin_wakatime: yes
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
